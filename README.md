@@ -157,7 +157,7 @@ sample = {
 ```
 Customer-Churn-Prediction/
 │
-├── PDS_OEP.ipynb                    # Main notebook
+├── Churn_Prediction.ipynb                    # Main notebook
 ├── customer_data.csv                # Input dataset
 ├── logistic_regression_model.pkl    # Saved trained model
 ├── feature_scaler.pkl               # Saved scaler
